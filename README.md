@@ -2,7 +2,7 @@
  
 Estudante técnico apaixonado por computação. Foi ela que me deu direção quando eu mais precisava, e desde então não parei mais de aprender.
  
-Estudo na ETEC de Cubatão desde 2024, onde comecei pelo Técnico em **Recursos Humanos** e fui migrando para a área que realmente me tomou: **Tecnologia da Informação**. Sou formado no Técnico em Informática e atualmente curso o Técnico em Desenvolvimento de Sistemas, e uso este GitHub para registrar minha evolução com projetos escolares, experimentos pessoais e tudo que vou construindo no caminho.
+Estudo na ETEC de Cubatão desde 2024, onde comecei pelo Técnico em **Recursos Humanos** e fui migrando para a área que realmente me tomou: **Tecnologia da Informação**. Sou formado em Informática na ETEC de Cubatão e atualmente curso o Técnico em Desenvolvimento de Sistemas, e uso este GitHub para registrar minha evolução com projetos escolares, experimentos pessoais e tudo que vou construindo no caminho.
  
 ---
  
